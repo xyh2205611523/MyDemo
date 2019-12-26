@@ -1,0 +1,7 @@
+E:\wodelianxi\C#进阶练习\委托\bin\Debug\委托.exe.config
+E:\wodelianxi\C#进阶练习\委托\bin\Debug\委托.exe
+E:\wodelianxi\C#进阶练习\委托\bin\Debug\委托.pdb
+E:\wodelianxi\C#进阶练习\委托\obj\Debug\委托.csprojAssemblyReference.cache
+E:\wodelianxi\C#进阶练习\委托\obj\Debug\委托.csproj.CoreCompileInputs.cache
+E:\wodelianxi\C#进阶练习\委托\obj\Debug\委托.exe
+E:\wodelianxi\C#进阶练习\委托\obj\Debug\委托.pdb

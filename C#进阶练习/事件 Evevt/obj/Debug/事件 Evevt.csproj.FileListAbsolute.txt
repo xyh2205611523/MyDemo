@@ -1,0 +1,7 @@
+E:\wodelianxi\C#进阶练习\事件 Evevt\bin\Debug\事件 Evevt.exe.config
+E:\wodelianxi\C#进阶练习\事件 Evevt\bin\Debug\事件 Evevt.exe
+E:\wodelianxi\C#进阶练习\事件 Evevt\bin\Debug\事件 Evevt.pdb
+E:\wodelianxi\C#进阶练习\事件 Evevt\obj\Debug\事件 Evevt.csprojAssemblyReference.cache
+E:\wodelianxi\C#进阶练习\事件 Evevt\obj\Debug\事件 Evevt.csproj.CoreCompileInputs.cache
+E:\wodelianxi\C#进阶练习\事件 Evevt\obj\Debug\事件 Evevt.exe
+E:\wodelianxi\C#进阶练习\事件 Evevt\obj\Debug\事件 Evevt.pdb

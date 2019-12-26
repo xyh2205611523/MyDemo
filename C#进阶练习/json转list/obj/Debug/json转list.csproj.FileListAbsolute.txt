@@ -1,0 +1,9 @@
+E:\wodelianxi\C#进阶练习\json转list\bin\Debug\json转list.exe.config
+E:\wodelianxi\C#进阶练习\json转list\bin\Debug\json转list.exe
+E:\wodelianxi\C#进阶练习\json转list\bin\Debug\json转list.pdb
+E:\wodelianxi\C#进阶练习\json转list\bin\Debug\Newtonsoft.Json.dll
+E:\wodelianxi\C#进阶练习\json转list\obj\Debug\json转list.csprojAssemblyReference.cache
+E:\wodelianxi\C#进阶练习\json转list\obj\Debug\json转list.csproj.CoreCompileInputs.cache
+E:\wodelianxi\C#进阶练习\json转list\obj\Debug\json转list.csproj.CopyComplete
+E:\wodelianxi\C#进阶练习\json转list\obj\Debug\json转list.exe
+E:\wodelianxi\C#进阶练习\json转list\obj\Debug\json转list.pdb

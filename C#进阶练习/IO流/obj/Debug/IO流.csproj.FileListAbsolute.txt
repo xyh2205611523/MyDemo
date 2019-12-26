@@ -1,0 +1,14 @@
+E:\wodelianxi\IO流\bin\Debug\IO流.exe.config
+E:\wodelianxi\IO流\bin\Debug\IO流.exe
+E:\wodelianxi\IO流\bin\Debug\IO流.pdb
+E:\wodelianxi\IO流\obj\Debug\IO流.csprojAssemblyReference.cache
+E:\wodelianxi\IO流\obj\Debug\IO流.csproj.CoreCompileInputs.cache
+E:\wodelianxi\IO流\obj\Debug\IO流.exe
+E:\wodelianxi\IO流\obj\Debug\IO流.pdb
+E:\wodelianxi\C#进阶练习\IO流\bin\Debug\IO流.exe.config
+E:\wodelianxi\C#进阶练习\IO流\bin\Debug\IO流.exe
+E:\wodelianxi\C#进阶练习\IO流\bin\Debug\IO流.pdb
+E:\wodelianxi\C#进阶练习\IO流\obj\Debug\IO流.csprojAssemblyReference.cache
+E:\wodelianxi\C#进阶练习\IO流\obj\Debug\IO流.csproj.CoreCompileInputs.cache
+E:\wodelianxi\C#进阶练习\IO流\obj\Debug\IO流.exe
+E:\wodelianxi\C#进阶练习\IO流\obj\Debug\IO流.pdb

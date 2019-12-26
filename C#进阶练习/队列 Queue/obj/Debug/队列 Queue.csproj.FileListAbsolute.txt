@@ -1,0 +1,7 @@
+E:\wodelianxi\C#进阶练习\队列 Queue\bin\Debug\队列 Queue.exe.config
+E:\wodelianxi\C#进阶练习\队列 Queue\bin\Debug\队列 Queue.exe
+E:\wodelianxi\C#进阶练习\队列 Queue\bin\Debug\队列 Queue.pdb
+E:\wodelianxi\C#进阶练习\队列 Queue\obj\Debug\队列 Queue.csprojAssemblyReference.cache
+E:\wodelianxi\C#进阶练习\队列 Queue\obj\Debug\队列 Queue.csproj.CoreCompileInputs.cache
+E:\wodelianxi\C#进阶练习\队列 Queue\obj\Debug\队列 Queue.exe
+E:\wodelianxi\C#进阶练习\队列 Queue\obj\Debug\队列 Queue.pdb

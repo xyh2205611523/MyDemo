@@ -1,0 +1,7 @@
+E:\wodelianxi\C#进阶练习\HttpRequestDemo\bin\Debug\HttpRequestDemo.exe.config
+E:\wodelianxi\C#进阶练习\HttpRequestDemo\bin\Debug\HttpRequestDemo.exe
+E:\wodelianxi\C#进阶练习\HttpRequestDemo\bin\Debug\HttpRequestDemo.pdb
+E:\wodelianxi\C#进阶练习\HttpRequestDemo\obj\Debug\HttpRequestDemo.csprojAssemblyReference.cache
+E:\wodelianxi\C#进阶练习\HttpRequestDemo\obj\Debug\HttpRequestDemo.csproj.CoreCompileInputs.cache
+E:\wodelianxi\C#进阶练习\HttpRequestDemo\obj\Debug\HttpRequestDemo.exe
+E:\wodelianxi\C#进阶练习\HttpRequestDemo\obj\Debug\HttpRequestDemo.pdb

@@ -1,0 +1,14 @@
+E:\wodelianxi\ThreadDemo\bin\Debug\ThreadDemo.exe.config
+E:\wodelianxi\ThreadDemo\bin\Debug\ThreadDemo.exe
+E:\wodelianxi\ThreadDemo\bin\Debug\ThreadDemo.pdb
+E:\wodelianxi\ThreadDemo\obj\Debug\ThreadDemo.csprojAssemblyReference.cache
+E:\wodelianxi\ThreadDemo\obj\Debug\ThreadDemo.csproj.CoreCompileInputs.cache
+E:\wodelianxi\ThreadDemo\obj\Debug\ThreadDemo.exe
+E:\wodelianxi\ThreadDemo\obj\Debug\ThreadDemo.pdb
+E:\wodelianxi\C#进阶练习\进阶练习\bin\Debug\ThreadDemo.exe.config
+E:\wodelianxi\C#进阶练习\进阶练习\bin\Debug\ThreadDemo.exe
+E:\wodelianxi\C#进阶练习\进阶练习\bin\Debug\ThreadDemo.pdb
+E:\wodelianxi\C#进阶练习\进阶练习\obj\Debug\ThreadDemo.csprojAssemblyReference.cache
+E:\wodelianxi\C#进阶练习\进阶练习\obj\Debug\ThreadDemo.csproj.CoreCompileInputs.cache
+E:\wodelianxi\C#进阶练习\进阶练习\obj\Debug\ThreadDemo.exe
+E:\wodelianxi\C#进阶练习\进阶练习\obj\Debug\ThreadDemo.pdb

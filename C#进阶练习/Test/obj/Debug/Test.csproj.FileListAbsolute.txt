@@ -1,0 +1,7 @@
+E:\wodelianxi\C#进阶练习\Test\bin\Debug\Test.exe.config
+E:\wodelianxi\C#进阶练习\Test\bin\Debug\Test.exe
+E:\wodelianxi\C#进阶练习\Test\bin\Debug\Test.pdb
+E:\wodelianxi\C#进阶练习\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\wodelianxi\C#进阶练习\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\wodelianxi\C#进阶练习\Test\obj\Debug\Test.exe
+E:\wodelianxi\C#进阶练习\Test\obj\Debug\Test.pdb

@@ -1,0 +1,7 @@
+E:\wodelianxi\C#进阶练习\Task\bin\Debug\Task.exe.config
+E:\wodelianxi\C#进阶练习\Task\bin\Debug\Task.exe
+E:\wodelianxi\C#进阶练习\Task\bin\Debug\Task.pdb
+E:\wodelianxi\C#进阶练习\Task\obj\Debug\Task.csprojAssemblyReference.cache
+E:\wodelianxi\C#进阶练习\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+E:\wodelianxi\C#进阶练习\Task\obj\Debug\Task.exe
+E:\wodelianxi\C#进阶练习\Task\obj\Debug\Task.pdb
