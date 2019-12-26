@@ -1,0 +1,8 @@
+E:\wodelianxi\C#进阶练习\mailkitCore\bin\Debug\netcoreapp2.2\mailkitCore.deps.json
+E:\wodelianxi\C#进阶练习\mailkitCore\bin\Debug\netcoreapp2.2\mailkitCore.runtimeconfig.json
+E:\wodelianxi\C#进阶练习\mailkitCore\bin\Debug\netcoreapp2.2\mailkitCore.runtimeconfig.dev.json
+E:\wodelianxi\C#进阶练习\mailkitCore\bin\Debug\netcoreapp2.2\mailkitCore.dll
+E:\wodelianxi\C#进阶练习\mailkitCore\obj\Debug\netcoreapp2.2\mailkitCore.csprojAssemblyReference.cache
+E:\wodelianxi\C#进阶练习\mailkitCore\obj\Debug\netcoreapp2.2\mailkitCore.csproj.CoreCompileInputs.cache
+E:\wodelianxi\C#进阶练习\mailkitCore\obj\Debug\netcoreapp2.2\mailkitCore.AssemblyInfoInputs.cache
+E:\wodelianxi\C#进阶练习\mailkitCore\obj\Debug\netcoreapp2.2\mailkitCore.AssemblyInfo.cs

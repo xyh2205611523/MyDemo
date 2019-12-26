@@ -1,0 +1,13 @@
+E:\wodelianxi\C#进阶练习\mailkit\bin\Debug\mailkit.exe.config
+E:\wodelianxi\C#进阶练习\mailkit\bin\Debug\mailkit.exe
+E:\wodelianxi\C#进阶练习\mailkit\bin\Debug\mailkit.pdb
+E:\wodelianxi\C#进阶练习\mailkit\bin\Debug\BouncyCastle.Crypto.dll
+E:\wodelianxi\C#进阶练习\mailkit\bin\Debug\MailKit.dll
+E:\wodelianxi\C#进阶练习\mailkit\bin\Debug\MimeKit.dll
+E:\wodelianxi\C#进阶练习\mailkit\bin\Debug\MailKit.xml
+E:\wodelianxi\C#进阶练习\mailkit\bin\Debug\MimeKit.xml
+E:\wodelianxi\C#进阶练习\mailkit\obj\Debug\mailkit.csprojAssemblyReference.cache
+E:\wodelianxi\C#进阶练习\mailkit\obj\Debug\mailkit.csproj.CoreCompileInputs.cache
+E:\wodelianxi\C#进阶练习\mailkit\obj\Debug\mailkit.csproj.CopyComplete
+E:\wodelianxi\C#进阶练习\mailkit\obj\Debug\mailkit.exe
+E:\wodelianxi\C#进阶练习\mailkit\obj\Debug\mailkit.pdb

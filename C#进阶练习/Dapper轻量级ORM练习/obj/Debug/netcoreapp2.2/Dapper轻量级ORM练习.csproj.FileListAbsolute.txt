@@ -27,3 +27,4 @@ E:\wodelianxi\C#进阶练习\Dapper轻量级ORM练习\obj\Debug\netcoreapp2.2\Da
 E:\wodelianxi\C#进阶练习\Dapper轻量级ORM练习\obj\Debug\netcoreapp2.2\Dapper轻量级ORM练习.dll
 E:\wodelianxi\C#进阶练习\Dapper轻量级ORM练习\obj\Debug\netcoreapp2.2\Dapper轻量级ORM练习.pdb
 E:\wodelianxi\C#进阶练习\Dapper轻量级ORM练习\obj\Debug\netcoreapp2.2\Dapper轻量级ORM练习.csproj.CopyComplete
+E:\wodelianxi\C#进阶练习\Dapper轻量级ORM练习\obj\Debug\netcoreapp2.2\Dapper轻量级ORM练习.csprojAssemblyReference.cache
